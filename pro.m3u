@@ -1,0 +1,66 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="abc" tvg-name="ABC Bakersfield CA (KERO)" tvg-logo="" group-title="US National Channels",ABC Bakersfield CA (KERO) (720p)
+https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
+
+#EXTINF:-1 tvg-id="abc_kabc" tvg-name="ABC 7 Los Angeles CA (KABC-TV)" tvg-logo="" group-title="US National Channels",ABC 7 Los Angeles CA (KABC-TV) (720p)
+https://tvpass.org/live/abc-kabc-los-angeles-ca/hd
+
+#EXTINF:-1 tvg-id="abcnews" tvg-name="ABC News Live" tvg-logo="" group-title="US National Channels",ABC News Live (National News)
+https://abcnews-streams.akamaized.net/hls/live/2023560/abcnews1/master.m3u8
+
+#EXTINF:-1 tvg-id="nbc" tvg-name="NBC Los Angeles (KNBC)" tvg-logo="" group-title="US National Channels",NBC Los Angeles (KNBC) (HD)
+https://tvpass.org/live/nbc-knbc-los-angeles-ca/hd
+
+#EXTINF:-1 tvg-id="nbc_sports" tvg-name="NBC Sports Bay Area" tvg-logo="" group-title="US National Channels",NBC Sports Bay Area (Regional Sports)
+https://tvpass.org/live/nbc-sports-bay-area/hd
+
+#EXTINF:-1 tvg-id="cbs" tvg-name="CBS 2 Billings MT (KTVQ)" tvg-logo="" group-title="US National Channels",CBS 2 Billings MT (KTVQ) (1080p)
+https://aegis-cloudfront-1.tubi.video/16dca551-7e18-4599-b235-395d5044099b/playlist.m3u8
+
+#EXTINF:-1 tvg-id="cbsnews" tvg-name="CBS News 24/7" tvg-logo="" group-title="US National Channels",CBS News 24/7 (Continuous Live Stream)
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62441d6ded1827000763dcda/master.m3u8
+
+#EXTINF:-1 tvg-id="comedy_central" tvg-name="Comedy Central East" tvg-logo="" group-title="US National Channels",Comedy Central East (720p)
+https://fl3.moveonjoy.com/Comedy_Central/index.m3u8
+
+#EXTINF:-1 tvg-id="comedy_central_pluto" tvg-name="Comedy Central Pluto TV" tvg-logo="" group-title="US National Channels",Comedy Central Pluto TV (Ad-supported)
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8
+
+#EXTINF:-1 tvg-id="amc" tvg-name="AMC East" tvg-logo="" group-title="US National Channels",AMC East (1080p)
+https://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="bravo" tvg-name="Bravo East" tvg-logo="" group-title="US National Channels",Bravo East
+https://fl3.moveonjoy.com/BRAVO/index.m3u8
+
+#EXTINF:-1 tvg-id="lifetime" tvg-name="Lifetime East" tvg-logo="" group-title="US National Channels",Lifetime East
+https://fl3.moveonjoy.com/LIFETIME/index.m3u8
+
+#EXTINF:-1 tvg-id="fx" tvg-name="FX East" tvg-logo="" group-title="US National Channels",FX East
+https://fl5.moveonjoy.com/FX/index.m3u8
+
+#EXTINF:-1 tvg-id="hallmark" tvg-name="Hallmark Channel East" tvg-logo="" group-title="US National Channels",Hallmark Channel East
+https://fl3.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
+
+#EXTINF:-1 tvg-id="mtv" tvg-name="MTV East" tvg-logo="" group-title="US National Channels",MTV East
+https://fl3.moveonjoy.com/MTV/index.m3u8
+
+#EXTINF:-1 tvg-id="nfl" tvg-name="NFL Network" tvg-logo="" group-title="US National Channels",NFL Network (Varies by availability)
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8
+
+#EXTINF:-1 tvg-id="nba" tvg-name="NBA TV" tvg-logo="" group-title="US National Channels",NBA TV (Geo restrictions possible)
+https://amg00556-amg00556c3-firetv-us-6060.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="mlb" tvg-name="MLB Network" tvg-logo="" group-title="US National Channels",MLB Network
+https://fl3.moveonjoy.com/MLB_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="fox_local" tvg-name="Fox 2 Detroit example" tvg-logo="" group-title="US National Channels",Fox 2 Detroit (example local Fox affiliate)
+https://apollo.production-public.tubi.io/live/ac-wjbk.m3u8
+
+#EXTINF:-1 tvg-id="fox_news" tvg-name="Fox News Channel" tvg-logo="" group-title="US National Channels",Fox News Live Stream
+http://23.237.104.106:8080/USA_FOX_NEWS/index.m3u8
+
+#EXTINF:-1 tvg-id="fox_sports_2" tvg-name="Fox Sports 2" tvg-logo="" group-title="US National Channels",Fox Sports 2
+http://23.237.104.106:8080/USA_FS2/index.m3u8
+
+#EXTINF:-1,tvg-id="hbo" tvg-name="HBO (US)" group-title="US Premium Channels",HBO
+rtmp://www1.iguide.to/iguide playpath=0bf02qe6msgtu4s swfUrl=http://www.iguide.to/player/secure_player_iguide_token.swf pageUrl=http://www.iguide.to/view/1/watch-live-HBO-channel-for-free flashver=WIN/2019,0,0,185 live=1 token=#ed%h0#w18623jsda6523lDGD timeout=10
