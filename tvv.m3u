@@ -1,1 +1,68 @@
 
+#EXTM3U
+
+# Movies
+#EXTINF:-1 tvg-id="MGM+ - East (891).us",MGM+ East
+http://fl2.moveonjoy.com/EPIX/index.m3u8
+#EXTINF:-1 tvg-id="Turner Classic Movies USA (790).us",TCM
+https://fl3.moveonjoy.com/TCM/index.m3u8
+
+# Entertainment
+#EXTINF:-1 tvg-id="USA Network - Pacific (125).us",USA Network
+https://fl3.moveonjoy.com/USA_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="TBS - Pacific (113).us",TBS
+http://fl2.moveonjoy.com/TBS/index.m3u8
+#EXTINF:-1 tvg-id="TV Land - Pacific (139).us",TV Land
+https://fl3.moveonjoy.com/TV_LAND/index.m3u8
+#EXTINF:-1 tvg-id="E! Entertainment Television - Pacific (116).us",E! Entertainment
+https://fl3.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
+#EXTINF:-1 tvg-id="FX Networks West Coast (129).us",FX
+https://fl5.moveonjoy.com/FX/index.m3u8
+#EXTINF:-1 tvg-id="Lifetime Pacific (189).us",Lifetime
+https://fl3.moveonjoy.com/LIFETIME/index.m3u8
+#EXTINF:-1 tvg-id="Lifetime Movies - Pacific (191).us",LMN
+https://fl3.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="VICE (257).us",VICE TV
+https://fl3.moveonjoy.com/VICELAND/index.m3u8
+
+# Documentary / Factual
+#EXTINF:-1 tvg-id="Discovery Channel US - East (250).us",Discovery Channel
+https://fl1.moveonjoy.com/DISCOVERY_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="Animal Planet US - Eastern (252).us",Animal Planet
+https://fl1.moveonjoy.com/ANIMAL_PLANET/index.m3u8
+#EXTINF:-1 tvg-id="National Geographic US - Eastern (265).us",National Geographic
+https://fl1.moveonjoy.com/NATIONAL_GEOGRAPHIC/index.m3u8
+#EXTINF:-1 tvg-id="The Cooking Channel (456).us",Cooking Channel
+https://fl3.moveonjoy.com/COOKING_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="Travel US - West (255).us",Travel Channel
+https://fl3.moveonjoy.com/TRAVEL_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="History Channel US - Pacific Feed (256).us",History
+https://fl3.moveonjoy.com/HISTORY/index.m3u8
+
+# Sports
+#EXTINF:-1 tvg-id="FOX Sports 1 USA - East (400).us",FS1
+http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
+#EXTINF:-1 tvg-id="NBA TV USA (632).us",NBA TV
+https://fl3.moveonjoy.com/NBA_TV/index.m3u8
+
+# Kids
+#EXTINF:-1 tvg-id="Cartoon Network USA - Eastern Feed (325).us",Cartoon Network
+https://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="Disney Channel USA - Pacific (302).us",Disney Channel
+https://fl5.moveonjoy.com/DISNEY/index.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon - Pacific (304).us",Nickelodeon
+http://fl1.moveonjoy.com/NICKELODEON/index.m3u8
+
+# Music
+#EXTINF:-1 tvg-id="BET - Pacific Feed (156).us",BET
+https://fl3.moveonjoy.com/BET/index.m3u8
+#EXTINF:-1 tvg-id="VH1 - Pacific Feed (519).us",VH1
+https://fl3.moveonjoy.com/VH1/index.m3u8
+#EXTINF:-1 tvg-id="MTV USA - Pacific Feed (503).us",MTV
+https://fl3.moveonjoy.com/MTV/index.m3u8
+#EXTINF:-1 tvg-id="MTV 2 - West (505).us",MTV2
+https://fl2.moveonjoy.com/MTV_2/index.m3u8
+#EXTINF:-1 tvg-id="MTV Classic - West (521).us",MTV Classic
+https://fl3.moveonjoy.com/MTV_CLASSIC/index.m3u8
+#EXTINF:-1 tvg-id="MTV U (510).us",MTVU
+https://fl3.moveonjoy.com/MTV_U/index.m3u8
