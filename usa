@@ -1,0 +1,155 @@
+#EXTM3U
+
+# Entertainment Channels
+#EXTINF:-1 tvg-id="ABC (WKOW) Madison, WI (27).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png" group-title="Entertainment",ABC East
+http://41.205.93.154/ABC/index.m3u8
+
+#EXTINF:-1 tvg-id="AMC Network USA - Eastern (119).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="Entertainment",AMC East
+https://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="BBC America - Eastern (122).us" tvg-logo="https://i.imgur.com/pTiiPz0.png" group-title="Entertainment",BBC America East
+https://dvrfl04.tulix.tv/teleup-bbca/index.m3u8
+
+#EXTINF:-1 tvg-id="Cartoon Network USA - Eastern Feed (325).us" tvg-logo="" group-title="Entertainment",Cartoon Network East
+https://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="Comedy Central (US) - Pacific Feed (141).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/512px-Comedy_Central_2018.svg.png" group-title="Entertainment",Comedy Central East
+http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
+
+#EXTINF:-1 tvg-id="Disney Channel USA - Pacific (302).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/512px-Disney_Channel_logo_%282014%29.svg.png" group-title="Entertainment",Disney Channel East
+https://fl5.moveonjoy.com/DISNEY/index.m3u8
+
+#EXTINF:-1 tvg-id="E! Entertainment Television - Pacific (116).us" tvg-logo="https://i.imgur.com/TWFDkap.png" group-title="Entertainment",E! East
+https://fl3.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
+
+#EXTINF:-1 tvg-id="FX Networks West Coast (129).us" tvg-logo="https://i.imgur.com/ZScwrpi.png" group-title="Entertainment",FX East
+https://fl5.moveonjoy.com/FX/index.m3u8
+
+#EXTINF:-1 tvg-id="Hallmark Movies & Mysteries (460).us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/Hallmark_Drama_Logo.png" group-title="Entertainment",Hallmark Drama
+https://fl3.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
+
+#EXTINF:-1 tvg-id="Lifetime Pacific (189).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/512px-Logo_Lifetime_2020.svg.png" group-title="Entertainment",Lifetime East
+https://fl3.moveonjoy.com/LIFETIME/index.m3u8
+
+#EXTINF:-1 tvg-id="Lifetime Movies - Pacific (191).us" tvg-logo="https://i.imgur.com/BWmqYTO.png" group-title="Entertainment",Lifetime Movies East
+https://fl3.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="MTV USA - Pacific Feed (503).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/512px-MTV_2021_%28brand_version%29.svg.png" group-title="Entertainment",MTV East
+https://fl3.moveonjoy.com/MTV/index.m3u8
+
+#EXTINF:-1 tvg-id="MTV 2 - West (505).us" tvg-logo="" group-title="Entertainment",MTV2 East
+https://fl2.moveonjoy.com/MTV_2/index.m3u8
+
+#EXTINF:-1 tvg-id="MTV Classic - West (521).us" tvg-logo="" group-title="Entertainment",MTV Classic East
+https://fl3.moveonjoy.com/MTV_CLASSIC/index.m3u8
+
+#EXTINF:-1 tvg-id="MTV U (510).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/MTVU_Logo_%282016%E2%80%93present%29.svg/512px-MTVU_Logo_%282016%E2%80%93present%29.svg.png" group-title="Entertainment",MTVU
+https://fl3.moveonjoy.com/MTV_U/index.m3u8
+
+#EXTINF:-1 tvg-id="Nickelodeon - Pacific (304).us" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Entertainment",Nickelodeon East
+http://fl1.moveonjoy.com/NICKELODEON/index.m3u8
+
+#EXTINF:-1 tvg-id="TBS - Pacific (113).us" tvg-logo="" group-title="Entertainment",TBS East
+http://fl2.moveonjoy.com/TBS/index.m3u8
+
+#EXTINF:-1 tvg-id="TNT USA - Pacific (114).us" tvg-logo="https://i.imgur.com/l0RGbRI.png" group-title="Entertainment",TNT East
+https://cdn4.skygo.mn/live/disk1/THT/HLSv3-FTA/THT.m3u8
+
+#EXTINF:-1 tvg-id="TV Land - Pacific (139).us" tvg-logo="" group-title="Entertainment",TV Land East
+https://fl3.moveonjoy.com/TV_LAND/index.m3u8
+
+#EXTINF:-1 tvg-id="USA Network - Pacific (125).us" tvg-logo="" group-title="Entertainment",USA Network East
+https://fl3.moveonjoy.com/USA_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="VH1 - Pacific Feed (519).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/512px-VH1_logonew.svg.png" group-title="Entertainment",VH1 East
+https://fl3.moveonjoy.com/VH1/index.m3u8
+
+#EXTINF:-1 tvg-id="VICE (257).us" tvg-logo="" group-title="Entertainment",VICE TV
+https://fl3.moveonjoy.com/VICELAND/index.m3u8
+
+# Sports Channels
+#EXTINF:-1 tvg-id="ESPN USA - East (378).us" tvg-logo="https://i.imgur.com/HiBrysh.png" group-title="Sports",ESPN U
+https://fl3.moveonjoy.com/ESPN_U/index.m3u8
+
+#EXTINF:-1 tvg-id="FOX Sports 1 USA - East (400).us" tvg-logo="" group-title="Sports",FOX Sports 1
+http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
+
+#EXTINF:-1 tvg-id="NBA TV USA (632).us" tvg-logo="" group-title="Sports",NBA TV
+https://fl3.moveonjoy.com/NBA_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="NBC Sports Bay Area (770).us" tvg-logo="" group-title="Sports",NBC Sports
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6549306c83595c000815a696/master.m3u8
+
+# Movies Channels
+#EXTINF:-1 tvg-id="Cinemax - Eastern Feed (832).us" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="Movies",Cinemax East
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FX Movie Channel (792).us" tvg-logo="" group-title="Movies",FX Movie Channel
+https://tvpass.org/live/FXMovieChannel/sd
+
+#EXTINF:-1 tvg-id="HBO - Eastern (800).us" tvg-logo="" group-title="Movies",HBO East
+https://fl2.moveonjoy.com/HBO/index.m3u8
+
+#EXTINF:-1 tvg-id="MGM+ - East (891).us" tvg-logo="" group-title="Movies",MGM+ East
+http://fl2.moveonjoy.com/EPIX/index.m3u8
+
+#EXTINF:-1 tvg-id="Showtime - Eastern (850).us" tvg-logo="" group-title="Movies",Showtime East
+https://fl3.moveonjoy.com/SHOWTIME/index.m3u8
+
+#EXTINF:-1 tvg-id="Starz - Eastern (900).us" tvg-logo="" group-title="Movies",Starz East
+https://fl3.moveonjoy.com/STARZ/index.m3u8
+
+#EXTINF:-1 tvg-id="Turner Classic Movies USA (790).us" tvg-logo="" group-title="Movies",TCM East
+https://fl3.moveonjoy.com/TCM/index.m3u8
+
+# Music Channels
+#EXTINF:-1 tvg-id="BET - Pacific Feed (156).us" tvg-logo="" group-title="Music",BET East
+https://fl3.moveonjoy.com/BET/index.m3u8
+
+#EXTINF:-1 tvg-id="MTV Live (1505).us" tvg-logo="https://i.imgur.com/3UByLqb.png" group-title="Music",MTV Live
+https://fl3.moveonjoy.com/MTV_LIVE/index.m3u8
+
+#EXTINF:-1 tvg-id="VH1 - Pacific Feed (519).us" tvg-logo="" group-title="Music",VH1 Hip Hop
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d71561df6f2e6d0b6493bf5/master.m3u8
+
+# Documentary Channels
+#EXTINF:-1 tvg-id="Animal Planet US - Eastern (252).us" tvg-logo="" group-title="Documentary",Animal Planet East
+https://fl1.moveonjoy.com/ANIMAL_PLANET/index.m3u8
+
+#EXTINF:-1 tvg-id="Discovery Channel US - East (250).us" tvg-logo="" group-title="Documentary",Discovery Channel East
+https://fl1.moveonjoy.com/DISCOVERY_CHANNEL/index.m3u8
+
+#EXTINF:-1 tvg-id="History Channel US - Pacific Feed (256).us" tvg-logo="" group-title="Documentary",History Channel East
+https://fl3.moveonjoy.com/HISTORY/index.m3u8
+
+#EXTINF:-1 tvg-id="National Geographic US - Eastern (265).us" tvg-logo="" group-title="Documentary",National Geographic East
+https://fl1.moveonjoy.com/NATIONAL_GEOGRAPHIC/index.m3u8
+
+#EXTINF:-1 tvg-id="TLC USA - Pacific (251).us" tvg-logo="" group-title="Documentary",TLC East
+https://fl3.moveonjoy.com/TLC/index.m3u8
+
+# Kids Channels
+#EXTINF:-1 tvg-id="Cartoon Network USA - Eastern Feed (325).us" tvg-logo="" group-title="Kids",Cartoon Network
+https://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="Disney Channel USA - Pacific (302).us" tvg-logo="" group-title="Kids",Disney Channel
+https://fl2.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
+
+#EXTINF:-1 tvg-id="Disney XD USA - Pacific (306).us" tvg-logo="" group-title="Kids",Disney XD
+https://fl5.moveonjoy.com/DISNEY_XD/index.m3u8
+
+#EXTINF:-1 tvg-id="Nickelodeon - Pacific (304).us" tvg-logo="" group-title="Kids",Nickelodeon
+http://fl1.moveonjoy.com/NICKELODEON/index.m3u8
+
+# General Interest
+#EXTINF:-1 tvg-id="CNBC USA (218).us" tvg-logo="" group-title="General",CNBC
+https://fl3.moveonjoy.com/CNBC/index.m3u8
+
+#EXTINF:-1 tvg-id="HGTV USA - Pacific Feed (451).us" tvg-logo="" group-title="General",HGTV
+https://fl3.moveonjoy.com/HGTV/index.m3u8
+
+#EXTINF:-1 tvg-id="The Cooking Channel (456).us" tvg-logo="" group-title="General",Cooking Channel
+https://fl3.moveonjoy.com/COOKING_CHANNEL/index.m3u8
+
+#EXTINF:-1 tvg-id="Travel US - West (255).us" tvg-logo="" group-title="General",Travel Channel
+https://fl3.moveonjoy.com/TRAVEL_CHANNEL/index.m3u8
